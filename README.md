@@ -18,6 +18,6 @@
 $ pip install virtualenv
 $ virtualenv 'название виртуального окружения'
 $ venv 'название виртуального окружения'/Scripts(или bin для linux)/activate
-$ pip install -r requirements.txt
+$ pip install requests
 $ pip install beautifulsoup4
 ```
